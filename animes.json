@@ -1,0 +1,344 @@
+[
+    {
+        "id": 1,
+        "name": "Naruto",
+        "description": "A hist\u00f3ria de um jovem ninja em sua jornada para se tornar Hokage...",
+        "image": "assets/imagens/naruto.jpg",
+        "characters": [
+            {
+                "id": 1,
+                "name": "Naruto Uzumaki",
+                "description": "O protagonista da s\u00e9rie que busca reconhecimento e poder...",
+                "image": "assets/imagens/naruto-uzumaki.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Sasuke Uchiha",
+                "description": "O rival de Naruto, buscando vingan\u00e7a e poder...",
+                "image": "assets/imagens/sasuke-uchiha.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Sakura Haruno",
+                "description": "A ninja m\u00e9dica do time 7, com habilidades excepcionais...",
+                "image": "assets/imagens/sakura-haruno.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Kakashi Hatake",
+                "description": "O lend\u00e1rio ninja copiador, conhecido por suas t\u00e9cnicas \u00fanicas...",
+                "image": "assets/imagens/kakashi-hatake.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Itachi Uchiha",
+                "description": "O irm\u00e3o de Sasuke, com um passado complexo e tr\u00e1gico...",
+                "image": "assets/imagens/itachi-uchiha.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Jiraiya",
+                "description": "O Sannin Eterno, mentor de Naruto e mestre em t\u00e9cnicas poderosas...",
+                "image": "assets/imagens/jiraiya.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Orochimaru",
+                "description": "O Sannin que busca a imortalidade e possui habilidades terr\u00edveis...",
+                "image": "assets/imagens/orochimaru.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Tsunade",
+                "description": "A Sannin M\u00e9dica e uma das ninjas mais fortes, conhecida por suas habilidades de cura...",
+                "image": "assets/imagens/tsunade.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Minato Namikaze",
+                "description": "O Quarto Hokage, pai de Naruto, conhecido por sua velocidade e habilidades...",
+                "image": "assets/imagens/minato-namikaze.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Kushina Uzumaki",
+                "description": "A m\u00e3e de Naruto, com um passado significativo e habilidades poderosas...",
+                "image": "assets/imagens/kushina-uzumaki.jpg"
+            },
+            {
+                "id": 11,
+                "name": "Hiruzen Sarutobi",
+                "description": "O Terceiro Hokage, conhecido por sua sabedoria e lideran\u00e7a...",
+                "image": "assets/imagens/hiruzen-sarutobi.jpg"
+            },
+            {
+                "id": 12,
+                "name": "Danzo Shimura",
+                "description": "O l\u00edder dos Anbu, com m\u00e9todos question\u00e1veis e ambi\u00e7\u00f5es ocultas...",
+                "image": "assets/imagens/danzo-shimura.jpg"
+            },
+            {
+                "id": 13,
+                "name": "Kurenai Yuhi",
+                "description": "A jounin especialista em genjutsu, com habilidades mentais excepcionais...",
+                "image": "assets/imagens/kurenai-yuhi.jpg"
+            },
+            {
+                "id": 14,
+                "name": "Asuma Sarutobi",
+                "description": "O jounin especialista em taijutsu, conhecido por seu esp\u00edrito e habilidades...",
+                "image": "assets/imagens/asuma-sarutobi.jpg"
+            },
+            {
+                "id": 15,
+                "name": "Shikamaru Nara",
+                "description": "O estrategista do time 10, conhecido por sua intelig\u00eancia e habilidades t\u00e1ticas...",
+                "image": "assets/imagens/shikamaru-nara.jpg"
+            },
+            {
+                "id": 16,
+                "name": "Ino Yamanaka",
+                "description": "A especialista em jutsu mental, com habilidades em controle da mente...",
+                "image": "assets/imagens/ino-yamanaka.jpg"
+            },
+            {
+                "id": 17,
+                "name": "Choji Akimichi",
+                "description": "O membro do time 10 com habilidades de expans\u00e3o, conhecido por sua for\u00e7a...",
+                "image": "assets/imagens/choji-akimichi.jpg"
+            },
+            {
+                "id": 18,
+                "name": "Neji Hyuga",
+                "description": "O prod\u00edgio do cl\u00e3 Hyuga, com habilidades impressionantes de taijutsu e vis\u00e3o...",
+                "image": "assets/imagens/neji-hyuga.jpg"
+            },
+            {
+                "id": 19,
+                "name": "Hinata Hyuga",
+                "description": "Hinata \u00e9 a prima de Neji, com habilidades excepcionais e uma personalidade gentil...",
+                "image": "assets/imagens/hinata-hyuga.jpg"
+            },
+            {
+                "id": 20,
+                "name": "Rock Lee",
+                "description": "O ninja que n\u00e3o usa jutsu, conhecido por sua dedica\u00e7\u00e3o e habilidades f\u00edsicas...",
+                "image": "assets/imagens/rock-lee.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dragon Ball Z",
+        "description": "Uma aventura \u00e9pica com guerreiros poderosos lutando para proteger o universo...",
+        "image": "assets/imagens/dbz.jpg",
+        "characters": [
+            {
+                "id": 21,
+                "name": "Goku",
+                "description": "O guerreiro Saiyajin que defende a Terra com for\u00e7a e coragem...",
+                "image": "assets/imagens/goku.jpg"
+            },
+            {
+                "id": 22,
+                "name": "Vegeta",
+                "description": "O pr\u00edncipe dos Saiyajins, com um orgulho imenso e habilidades de combate...",
+                "image": "assets/imagens/vegeta.jpg"
+            },
+            {
+                "id": 23,
+                "name": "Gohan",
+                "description": "O filho de Goku, conhecido por seu potencial e habilidades \u00fanicas...",
+                "image": "assets/imagens/gohan.jpg"
+            },
+            {
+                "id": 24,
+                "name": "Piccolo",
+                "description": "O Namekuseijin guerreiro que se tornou um grande aliado da Terra...",
+                "image": "assets/imagens/piccolo.jpg"
+            },
+            {
+                "id": 25,
+                "name": "Freeza",
+                "description": "O imperador do universo, conhecido por sua crueldade e poder imenso...",
+                "image": "assets/imagens/freeza.jpg"
+            },
+            {
+                "id": 26,
+                "name": "Cell",
+                "description": "O bio-androide perfeito, com habilidades que desafiam os guerreiros da Terra...",
+                "image": "assets/imagens/cell.jpg"
+            },
+            {
+                "id": 27,
+                "name": "Majin Boo",
+                "description": "A criatura m\u00e1gica com poderes devastadores e uma personalidade peculiar...",
+                "image": "assets/imagens/majin-boo.jpg"
+            },
+            {
+                "id": 28,
+                "name": "Android 18",
+                "description": "A androide poderosa, conhecida por suas habilidades de combate e for\u00e7a...",
+                "image": "assets/imagens/android-18.jpg"
+            },
+            {
+                "id": 29,
+                "name": "Android 17",
+                "description": "O irm\u00e3o g\u00eameo de Android 18, com habilidades excepcionais e uma miss\u00e3o pr\u00f3pria...",
+                "image": "assets/imagens/android-17.jpg"
+            },
+            {
+                "id": 30,
+                "name": "Broly",
+                "description": "O Saiyajin Lend\u00e1rio, com um poder colossal e uma hist\u00f3ria tr\u00e1gica...",
+                "image": "assets/imagens/broly.jpg"
+            },
+            {
+                "id": 31,
+                "name": "Bills",
+                "description": "O Deus da Destrui\u00e7\u00e3o, com um poder inigual\u00e1vel e uma personalidade \u00fanica...",
+                "image": "assets/imagens/bills.jpg"
+            },
+            {
+                "id": 32,
+                "name": "Whis",
+                "description": "O anjo assistente de Bills, conhecido por sua sabedoria e habilidades...",
+                "image": "assets/imagens/whis.jpg"
+            },
+            {
+                "id": 33,
+                "name": "Zamasu",
+                "description": "O Deus da Justi\u00e7a, com uma vis\u00e3o distorcida sobre o universo...",
+                "image": "assets/imagens/zamasu.jpg"
+            },
+            {
+                "id": 34,
+                "name": "Jiren",
+                "description": "O guerreiro mais forte do Universo 11, com habilidades incr\u00edveis e determina\u00e7\u00e3o...",
+                "image": "assets/imagens/jiren.jpg"
+            },
+            {
+                "id": 35,
+                "name": "Hit",
+                "description": "O assassino do Universo 6, conhecido por suas habilidades mortais e estrat\u00e9gia...",
+                "image": "assets/imagens/hit.jpg"
+            },
+            {
+                "id": 36,
+                "name": "Gotenks",
+                "description": "A fus\u00e3o de Goten e Trunks, com habilidades combinadas e uma personalidade divertida...",
+                "image": "assets/imagens/gotenks.jpg"
+            },
+            {
+                "id": 37,
+                "name": "Goku Black",
+                "description": "Um dos vil\u00f5es mais perigosos da saga Dragon Ball Super, Goku Black \u00e9 uma vers\u00e3o alternativa e maligna de Goku...",
+                "image": "assets/imagens/goku-black.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "One Piece",
+        "description": "As aventuras de um grupo de piratas em busca do tesouro lend\u00e1rio...",
+        "image": "assets/imagens/onepiece.jpg",
+        "characters": [
+            {
+                "id": 38,
+                "name": "Monkey D. Luffy",
+                "description": "O capit\u00e3o dos Piratas do Chap\u00e9u de Palha, com um sonho de encontrar o One Piece...",
+                "image": "assets/imagens/luffy.jpg"
+            },
+            {
+                "id": 39,
+                "name": "Roronoa Zoro",
+                "description": "O espadachim da tripula\u00e7\u00e3o, conhecido por sua habilidade com tr\u00eas espadas...",
+                "image": "assets/imagens/zoro.jpg"
+            },
+            {
+                "id": 40,
+                "name": "Nami",
+                "description": "A navegadora da tripula\u00e7\u00e3o, com habilidades em navega\u00e7\u00e3o e cartografia...",
+                "image": "assets/imagens/nami.jpg"
+            },
+            {
+                "id": 41,
+                "name": "Sanji",
+                "description": "O cozinheiro dos Piratas do Chap\u00e9u de Palha, com habilidades culin\u00e1rias e de combate...",
+                "image": "assets/imagens/sanji.jpg"
+            },
+            {
+                "id": 42,
+                "name": "Usopp",
+                "description": "O atirador da tripula\u00e7\u00e3o, conhecido por suas habilidades com o sniper e sua criatividade...",
+                "image": "assets/imagens/usopp.jpg"
+            },
+            {
+                "id": 43,
+                "name": "Tony Tony Chopper",
+                "description": "O m\u00e9dico e reindeer da tripula\u00e7\u00e3o, com habilidades m\u00e9dicas e transforma\u00e7\u00f5es...",
+                "image": "assets/imagens/chopper.jpg"
+            },
+            {
+                "id": 44,
+                "name": "Nico Robin",
+                "description": "A arque\u00f3loga da tripula\u00e7\u00e3o, com habilidades de leitura de Poneglyphs e poderes \u00fanicos...",
+                "image": "assets/imagens/robin.jpg"
+            },
+            {
+                "id": 45,
+                "name": "Franky",
+                "description": "O cyborg e carpinteiro, com habilidades de constru\u00e7\u00e3o e for\u00e7a sobre-humana...",
+                "image": "assets/imagens/franky.jpg"
+            },
+            {
+                "id": 46,
+                "name": "Brook",
+                "description": "O m\u00fasico da tripula\u00e7\u00e3o, com habilidades musicais e um corpo esquel\u00e9tico...",
+                "image": "assets/imagens/brook.jpg"
+            },
+            {
+                "id": 47,
+                "name": "Jinbe",
+                "description": "O timoneiro e membro dos Homens-Peixe, com habilidades de combate e uma forte lealdade...",
+                "image": "assets/imagens/jinbe.jpg"
+            },
+            {
+                "id": 48,
+                "name": "Portgas D. Ace",
+                "description": "O irm\u00e3o de Luffy e comandante da Segunda Divis\u00e3o dos Piratas do Barba Branca, com um poder flamejante...",
+                "image": "assets/imagens/ace.jpg"
+            },
+            {
+                "id": 49,
+                "name": "Trafalgar D. Water Law",
+                "description": "O capit\u00e3o dos Piratas Heart, com habilidades de cirurgia e uma personalidade complexa...",
+                "image": "assets/imagens/law.jpg"
+            },
+            {
+                "id": 50,
+                "name": "Shanks",
+                "description": "O capit\u00e3o dos Piratas do Ruivo, com um poder formid\u00e1vel e uma influ\u00eancia global...",
+                "image": "assets/imagens/shanks.jpg"
+            },
+            {
+                "id": 51,
+                "name": "Barba Negra",
+                "description": "O maior rival de Luffy, com habilidades \u00fanicas e um passado sombrio...",
+                "image": "assets/imagens/barba-negra.jpg"
+            },
+            {
+                "id": 52,
+                "name": "Kaido",
+                "description": "Um dos Quatro Imperadores, com um poder devastador e uma presen\u00e7a temida...",
+                "image": "assets/imagens/kaido.jpg"
+            },
+            {
+                "id": 53,
+                "name": "Big Mom",
+                "description": "Uma das Quatro Imperadoras, conhecida por sua for\u00e7a e um apetite voraz...",
+                "image": "assets/imagens/big-mom.jpg"
+            }
+        ]
+    }
+]
